@@ -28,7 +28,7 @@ Internal developer platforms · Kubernetes at scale · Observability
 <br/>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/40c463/maxisneverthat" alt="Max's contribution graph"/>
+  <img src="https://ghchart.rshah.org/4a7c59/maxisneverthat" alt="Max's contribution graph"/>
 </p>
 
 <p align="center">
