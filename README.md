@@ -1,6 +1,6 @@
 <h3 align="center">Max</h3>
 
-<p align="center">Platform Engineer at Solapi</p>
+<p align="center">Platform Engineer at SOLAPI</p>
 
 <p align="center">
 Internal developer platforms · Kubernetes at scale · Observability
