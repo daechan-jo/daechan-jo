@@ -28,6 +28,12 @@ Internal developer platforms · Kubernetes at scale · Observability
 <br/>
 
 <p align="center">
+  <img src="https://github-stats-extended-backend-3you-daechan-jos-projects.vercel.app/api/top-langs/?username=maxisneverthat&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css,scss&hide_border=true&title_color=4a7c59&text_color=768390&bg_color=00000000" alt="Most used languages"/>
+</p>
+
+<br/>
+
+<p align="center">
   <img src="https://ghchart.rshah.org/4a7c59/maxisneverthat" alt="Max's contribution graph"/>
 </p>
 
