@@ -37,6 +37,14 @@ Internal developer platforms · Kubernetes at scale · Observability
   <img src="https://ghchart.rshah.org/4a7c59/maxisneverthat" alt="Max's contribution graph"/>
 </p>
 
+<br/>
+
+<p align="center">
+  <a href="https://github.com/git-goods/gitanimals">
+    <img src="https://render.gitanimals.org/farms/maxisneverthat" alt="GitAnimals farm"/>
+  </a>
+</p>
+
 <p align="center">
   <a href="mailto:daechan.jo.dev@gmail.com">daechan.jo.dev@gmail.com</a>
 </p>
